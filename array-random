@@ -1,0 +1,2 @@
+var oque = new Array ("carro", "casa", "celular");
+console.log("vc ganhou um(a) " + oque[Math.floor(Math.random() * ((oque.length - 1) - 0 + 1))]);
