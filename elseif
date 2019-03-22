@@ -1,0 +1,11 @@
+var eu = "duda";
+
+if(eu === "duda"){
+    console.log("oi, duda");
+    }
+else if (eu === "eduarda"){
+    console.log("oi, eduarda");
+}
+else{
+    console.log("oi, fulana");
+}
