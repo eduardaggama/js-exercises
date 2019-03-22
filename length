@@ -1,0 +1,5 @@
+var eu = "duda";
+
+console.log(eu.length);
+console.log(eu[0]);
+console.log (eu [eu.length - 1]);
