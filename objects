@@ -1,0 +1,15 @@
+var eu = {
+    nome: "eduarda",
+    sobrenome: "gama",
+    idade: 19
+}
+
+console.log(eu);
+console.log(eu.nome);
+console.log(eu["nome"]);
+
+
+for(key in eu){
+    console.log(key + ": " + eu[key]);
+    
+}
