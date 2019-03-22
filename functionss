@@ -1,0 +1,20 @@
+function eu(){
+    console.log("teste");
+}
+
+eu();
+
+function soma(a, b){
+    console.log(a + b);
+    return a + b;
+}
+
+soma (5, 3);
+
+
+function soma2(a, b){
+    return a + b;
+}
+
+soma2 (5,3);
+console.log(soma2 (5,6));
