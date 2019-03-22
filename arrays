@@ -1,0 +1,13 @@
+//array
+var animais = ["cachorro", "gato", "peixe", "pássaro"];
+console.log(animais[2]);
+console.log(animais[Math.floor(Math.random() * ((animais - 1) - 0 + 1))]);
+console.log(animais.length);
+animais.pop(); //subtrai o ultimo
+console.log(animais.length);
+console.log(animais[2]);
+animais.push("cavalo");
+console.log(animais);
+delete animais[1]
+console.log("length dps de apagar: " + animais.length)
+console.log(animais);
