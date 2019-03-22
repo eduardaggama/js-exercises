@@ -1,0 +1,8 @@
+var sobrenome = "gama";
+
+if(sobrenome == "gama"){
+    console.log("oi " + sobrenome);
+}
+else{
+    console.log("quem é tu bb")
+}
