@@ -1,0 +1,2 @@
+var nomes = new Array ("duda", "ciclano", "fulano");
+console.log(nomes[1]);
